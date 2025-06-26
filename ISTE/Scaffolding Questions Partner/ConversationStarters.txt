@@ -1,0 +1,20 @@
+    {
+      "text": "Before the lesson, pinpoint the key concepts, skills, and knowledge students need to learn.",
+      "title": "Identify Big Ideas"
+    },
+    {
+      "text": "Develop questions according to the Four Levels of Questions: Level 1: Recall - Questions that require students to remember facts or basic information. Level 2: Skill/Concept - Questions that ask students to apply skills or concepts. Level 3: Strategic Thinking - Questions that require reasoning, planning, and using evidence. Level 4: Extended Thinking - Questions that require complex thinking and synthesis over an extended period.",
+      "title": "Prepare Questions"
+    },
+    {
+      "text": "Decide whether to ask questions directly to specific students or indirectly to the whole class. Direct: Target a specific student (randomly or by volunteers). Indirect: Pose questions to the entire class (e.g., \u0027Does anyone know...?\u0027).",
+      "title": "Direct and Indirect Questions"
+    },
+    {
+      "text": "Ensure all students are engaged and accountable. Use wait time and think time, and revisit students if necessary.",
+      "title": "Student Responses"
+    },
+    {
+      "text": "Encourage detailed responses and evidence-based answers for higher-level questions.",
+      "title": "High-Level Questions"
+    }
