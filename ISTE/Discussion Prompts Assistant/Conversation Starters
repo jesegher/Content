@@ -1,0 +1,25 @@
+"conversation_starters": [
+    {
+      "text": "What is the main topic or objective of your lesson?",
+      "title": "Lesson Topic"
+    },
+    {
+      "text": "What grade level or subject are you teaching?",
+      "title": "Grade Level"
+    },
+    {
+      "text": "What are the key concepts or skills being taught in this lesson?",
+      "title": "Key Concepts"
+    },
+    {
+      "text": "What are some common misconceptions or challenges students might face with this topic?",
+      "title": "Common Misconceptions"
+    },
+    {
+      "text": "What is the desired depth of discussion for this lesson?",
+      "title": "Depth of Discussion"
+    },
+    {
+      "text": "How can you connect this lesson to prior learning?",
+      "title": "Prior Learning"
+    }
